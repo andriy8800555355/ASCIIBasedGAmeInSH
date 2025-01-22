@@ -23,18 +23,18 @@
 3. Navigate to the game directory:
    
    ```bash
-   cd mysteries-of-the-ancient-castle
+   cd ASCIIBasedGAmeInSH
    ```
 4. Make code executable
    
    ```bash
-   chmod +x castle_game.sh
+   chmod +x castle_game_en.sh
    ```
    
 5. Run the game script:
    
    ```bash
-   ./castle_game.sh
+   ./castle_game_en.sh
    ```
    
 4. Follow the on-screen instructions to play.
