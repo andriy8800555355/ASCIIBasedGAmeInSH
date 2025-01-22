@@ -18,7 +18,7 @@
 1. Clone or download the repository:
    
    ```bash
-   git clone https://github.com/yourusername/mysteries-of-the-ancient-castle.git
+   git clone https://github.com/andriy8800555355/ASCIIBasedGAmeInSH.git
    ```
 3. Navigate to the game directory:
    
