@@ -23,17 +23,17 @@
 2. Перейдіть до директорії гри:
 
    ```bash
-   cd mysteries-of-the-ancient-castle
+   cd ASCIIBasedGAmeInSH
    ```
 3. Зробіть код виконуваним:
 
    ```bash
-   chmod +x castle_game.sh
+   chmod +x castle_game_uk.sh
    ```
 4. Запустіть скрипт гри:
 
    ```bash
-   ./castle_game.sh
+   ./castle_game_uk.sh
    ```
 
 5. Дотримуйтесь інструкцій на екрані, щоб грати.
